@@ -61,10 +61,3 @@ I would like to thank **Simtrak Solution Pvt. Ltd.** for providing me with this 
 ---  
 Feel free to explore the repository to understand the technical details of the development process. For any queries, you can reach out to me at **affanasgar8@gmail.com**.  
 """
-
-# Saving the content to a markdown file
-file_path = "/mnt/data/IVMS_README.md"
-with open(file_path, "w") as file:
-    file.write(readme_content)
-
-file_path
