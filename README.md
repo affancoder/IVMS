@@ -1,5 +1,3 @@
-# Writing the README content into a .md file for download
-readme_content = """
 # International Volunteer Management System (IVMS)  
 
 ## Project Overview  
